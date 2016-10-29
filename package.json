@@ -1,0 +1,9 @@
+{
+    "name": "url-shortener",
+    "main": "server.js",
+    "dependencies": {
+        "express": "*",
+        "mongoose": "4.6.4",
+        "body-parser": "*"
+    }
+}

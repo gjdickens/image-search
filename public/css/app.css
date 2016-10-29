@@ -1,0 +1,17 @@
+body {
+  padding-top: 40px;
+}
+
+.app {
+  max-width: 600px;
+  min-height: 600px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  padding-top: 20px;
+}
